@@ -73,7 +73,9 @@ you can make this way....
 
 > ⚠️ High recall but low precision and AUC indicate the model may be biased toward predicting upward movements. Further feature tuning and class balancing are needed.
 
----
+--- confusion matrix:
+<img width="790" height="737" alt="2025-07-15" src="https://github.com/user-attachments/assets/8719a5ca-2e7d-4dab-9582-c76e02cae70c" />
+
 
 ## 📌 How to Run
 
